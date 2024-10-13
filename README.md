@@ -24,4 +24,9 @@ Version : 1.0.0
 1. **Clone the repository**:
 ```
 git clone https://github.com/Mohammaddvd/PixelWatch
+cd PixelWatch
+python3 capture.py
 ```
+
+https://github.com/user-attachments/assets/54e70f7e-7cb4-4bd0-8a46-df16914639f0
+
