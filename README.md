@@ -3,7 +3,7 @@
 ## Overview
 ### Created For Fun
 This project is a simple application designed to run on a Raspberry Pi that captures images and detects movement. When movement is detected between consecutive images, the app saves the changed image and provides a notification. I created this project for fun and to explore ways to weaponize my Raspberry Pi with various tools, enhancing its capabilities for practical applications.
-Version : 1.0.0
+Version : 1.1.0
 ## Features
 
 - Captures multiple images using a camera module.
